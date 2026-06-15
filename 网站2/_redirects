@@ -1,0 +1,3 @@
+/proxy/*    https://corsproxy.io/?url=:splat   200
+/proxy2/*   https://proxy.cors.sh/:splat       200
+/proxy3/*   https://api.allorigins.win/raw?url=:splat  200
